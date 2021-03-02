@@ -6,3 +6,4 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 ## Table of contents
 - [MediatR](https://youtu.be/xKKVW94F2bc)
 - [IHttpClientFactory](https://youtu.be/B_4X3ltGCbY)
+- [NukeBuild](https://youtu.be/V5m4yPMjCtY)
