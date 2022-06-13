@@ -8,3 +8,4 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 - [IHttpClientFactory](https://youtu.be/B_4X3ltGCbY)
 - [NukeBuild](https://youtu.be/V5m4yPMjCtY)
 - [Marten DocumentDB](https://youtu.be/lgd_HxGBa-U)
+- [Marten Event Store](https://youtu.be/z0DLQ6MDH5A)
